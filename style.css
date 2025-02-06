@@ -55,3 +55,17 @@ nav {
   .content{
     max-width: 580px;
   }
+  .about{
+    font-size: 35px;
+    font-weight: bold;
+    color: darkslategray;
+    text-align: center;
+  }
+  .important{
+    font-size: 18px;color: dimgray;
+    text-align: center;padding: 0 350px;
+  }
+  .main div{
+    text-align: center;
+    display: flex;
+  }
