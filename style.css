@@ -74,4 +74,6 @@ nav {
   main section{
     margin-top: 130px;
     margin-bottom: 130px;
-  }
+ .download{
+  text-decoration: chocolate;font-size: 20px;
+ }
